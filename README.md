@@ -1,4 +1,6 @@
 # Glimmer-Installer
+## This script is under construction
+
 A small script to install Glimmer on any system
 
 Pretty simple for now, ust installs glimmer for Ruby at the moment.
