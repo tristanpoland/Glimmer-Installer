@@ -6,7 +6,7 @@ echo "Ruby has been sucessfully installed, use require 'glimmer' to run Glimmer 
 
 echo "Configuration Glimmer configuration may be done via the Glimmer::Config module."
 
-
+install_ruby()
 PS3='Select your OS: '
 options=("Ubuntu/Debian 1" "CentOS, Fedora, or RHEL 2" "Gentoo 3" "Quit")
 select opt in "${options[@]}"
